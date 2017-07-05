@@ -5,7 +5,7 @@ Kylin is an open source distributed Analytical Engine from eBay to provide SQL i
 This is a Docker container for Kylin to help you quick start with. In order to start first pull the container from the Docker repository.
 
 ```
-docker pull sequenceiq/kylin:0.7.2
+docker pull beauli/docker-kylin:2.0.0
 ```
 
 We have provided a few helper functions for your convenience.
