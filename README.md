@@ -11,7 +11,7 @@ docker pull sequenceiq/kylin:0.7.2
 We have provided a few helper functions for your convenience.
 
 ```
-wget https://raw.githubusercontent.com/sequenceiq/docker-kylin/master/ambari-functions
+wget https://raw.githubusercontent.com/beauli/docker-kylin/master/ambari-functions
 source ambari-functions
 ```
 
