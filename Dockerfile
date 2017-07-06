@@ -1,4 +1,4 @@
-FROM sequenceiq/ambari:7.2-v4
+FROM hortonworks/ambari-server:2.4.0-v1
 MAINTAINER Beauli
 
 RUN yum upgrade -y
